@@ -1,0 +1,36 @@
+.footer-wrapper {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  background-color: var(--primary-bg);
+}
+
+.social-icons ul li{
+  list-style: none;
+  float: left;
+  padding-left: 10px;
+  
+}
+
+
+
+.footer-logo {
+  height: 27px;
+  max-width: 140px;
+  margin-right: 24px;
+}
+
+.company ul li{
+    list-style: none;
+    color: var(--inactive-text);
+    
+}
+
+.company ul {
+ float: left;
+ padding-right: 50px;
+}
+
+.company ul h4{
+  font-size: 15px;
+  font-weight: 500;
+}

@@ -1,0 +1,16 @@
+.explore-section {
+  margin-top: 16px;
+}
+
+.explore-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.breaker{
+  width: 100%;
+  height: 1px;
+  margin-top: 30px;
+  background-color: var(--custom-grain);
+}
