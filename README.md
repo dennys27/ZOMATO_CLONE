@@ -1,15 +1,20 @@
 
+# Z-FASHIONS
+
+A clone website of zomato built with help of react.js and firebase
+# Features
+
+User  
+1.carousel   
+2.product listing  
+3.similer to zomato 
 
 
-# zomato-clone
+# Technologies used   
+React.js  
+Firebase  
+git  
 
-Features,
-1.Designed similar to zomato
-
-Technologies used –
-React js | Firebase
-
-## API Reference
 
 
 
@@ -28,11 +33,11 @@ React js | Firebase
 Clone the project
 
 ```bash
-https://github.com/dennys27/ZOMATO_CLONE.git
+https://github.com/dennys27/ZOMATO_CLONE
 ```
 
 Go to the project directory
-
+# Client
 ```bash
   cd zomato-clone
 ```
@@ -50,8 +55,30 @@ Start the server
 ```
 
 
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1kt7DQ-pOoZF54g-nICKc1qyR43gj0V0D)   
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1ku7L-OTnqBClWaEMm1S9Hh8n-t2n6-Bs)   
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1TmG4X2XsRaSb9IASCg0c0EBFpUeBoE1u)   
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1qsvEamGxAqFqPhX3U6P_EIz1K5AewBqW)   
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1u-ZLg8syEqgUbdWLqzE2VB_DHk3CfPhU)   
+
+  
+
+ 
+
+
+
+
+
 ## 🚀 About Me
-I'm an aspiring mern stack developer.
+I'm Dennys Joseph, an aspiring mern stack developer.
 
 
 ## 🔗 Links
@@ -60,3 +87,8 @@ I'm an aspiring mern stack developer.
 
 
  
+
+
+
+
+
